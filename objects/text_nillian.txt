@@ -1,0 +1,18 @@
+text_nillian
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_NILLIAN]
+
+who was sent to the stars
+whom I crushed for daring to be in the way
+whose band will quickly forget
+who shattered against my steel
+who spoke [PRO_POS] last
+whom I obliterated
+whom I reduced to my height
+an eggshell beneath my feet
+who will find no more truths
+whose life was not [PRO_POS] to waste
+whose steel has joined my tapestry
+whom I returned to the band in pieces
