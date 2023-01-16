@@ -3,7 +3,7 @@ item_nillian
 [OBJECT:ITEM]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_HORIZONTAL_FRONT_LEFT_END]
-[NAME:bookcase horizontal front left end:bookcase horizontal front left ends]
+[NAME:bookcase H F L end:bookcase H F L ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -15,7 +15,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_HORIZONTAL_FRONT_RIGHT_END]
-[NAME:bookcase horizontal front right end:bookcase horizontal front right ends]
+[NAME:bookcase H F R end:bookcase H F R ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -27,7 +27,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_HORIZONTAL_BACK_LEFT_END]
-[NAME:bookcase horizontal back left end:bookcase horizontal back left ends]
+[NAME:bookcase H B L end:bookcase H B L ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -39,7 +39,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_HORIZONTAL_BACK_RIGHT_END]
-[NAME:bookcase horizontal back right end:bookcase horizontal back right ends]
+[NAME:bookcase H B R end:bookcase H B R ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -51,7 +51,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_HORIZONTAL_FRONT_INBETWEEN]
-[NAME:bookcase horizontal front inbetween:bookcase horizontal front inbetweens]
+[NAME:bookcase H F inbetween:bookcase H F inbetweens]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -63,7 +63,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_HORIZONTAL_BACK_INBETWEEN]
-[NAME:bookcase horizontal back inbetween:bookcase horizontal back inbetweens]
+[NAME:bookcase H B inbetween:bookcase H B inbetweens]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -75,7 +75,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_LEFT_TO_DOWN]
-[NAME:bookcase corner front left to down:bookcase corner front left to downs]
+[NAME:bookcase C F L-to-D:bookcase C F L-to-Ds]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -87,7 +87,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_RIGHT_TO_DOWN]
-[NAME:bookcase corner front right to down:bookcase corner front right to downs]
+[NAME:bookcase C F R-to-D:bookcase C F R-to-Ds]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -99,7 +99,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_LEFT_TO_UP]
-[NAME:bookcase corner back left to up:bookcase corner back left to ups]
+[NAME:bookcase C B L-to-U:bookcase C B L-to-Us]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -111,7 +111,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_RIGHT_TO_UP]
-[NAME:bookcase corner back right to up:bookcase corner back right to ups]
+[NAME:bookcase C B R-to-U:bookcase C B R-to-Us]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -123,7 +123,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_LEFT_TO_UP]
-[NAME:bookcase corner front left to up:bookcase corner front left to ups]
+[NAME:bookcase C F L-to-U:bookcase C F L-to-Us]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -135,7 +135,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_RIGHT_TO_UP]
-[NAME:bookcase corner front right to up:bookcase corner front right to ups]
+[NAME:bookcase C F R-to-U:bookcase C F R-to-Us]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -147,7 +147,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_LEFT_TO_DOWN]
-[NAME:bookcase corner back left to down:bookcase corner back left to downs]
+[NAME:bookcase C B L-to-D:bookcase C B L-to-Ds]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -159,7 +159,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_RIGHT_TO_DOWN]
-[NAME:bookcase corner back right to down:bookcase corner back right to downs]
+[NAME:bookcase C B R-to-D:bookcase C B R-to-Ds]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -171,7 +171,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_LEFT_POINTING_RIGHT_TOP_END]
-[NAME:bookcase vertical left pointing right top end:bookcase vertical left pointing right top ends]
+[NAME:bookcase V L->R top end:bookcase V L->R top ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -183,7 +183,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_RIGHT_POINTING_LEFT_TOP_END]
-[NAME:bookcase vertical right pointing left top end:bookcase vertical right pointing left top ends]
+[NAME:bookcase V R->L top end:bookcase V R->L top ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -195,7 +195,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_LEFT_POINTING_RIGHT_BOTTOM_END]
-[NAME:bookcase vertical left pointing right bottom end:bookcase vertical left pointing right bottom ends]
+[NAME:bookcase V L->R bottom end:bookcase V L->R bottom ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -207,7 +207,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_RIGHT_POINTING_LEFT_BOTTOM_END]
-[NAME:bookcase vertical right pointing left bottom end:bookcase vertical right pointing left bottom ends]
+[NAME:bookcase V R->L bottom end:bookcase V R->L bottom ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -219,7 +219,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_LEFT_POINTING_RIGHT_INBETWEEN]
-[NAME:bookcase vertical left pointing right inbetween:bookcase vertical left pointing right inbetween]
+[NAME:bookcase V L->R inbetween:bookcase V L->R inbetween]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -231,7 +231,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_RIGHT_POINTING_LEFT_INBETWEEN]
-[NAME:bookcase vertical right pointing left inbetween:bookcase vertical right pointing left inbetween]
+[NAME:bookcase V R->L inbetween:bookcase V R->L inbetween]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -243,7 +243,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_RIGHT_POINTING_RIGHT_TOP_END]
-[NAME:bookcase vertical right pointing right top end:bookcase vertical right pointing right top ends]
+[NAME:bookcase V R->R top end:bookcase V R->R top ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -255,7 +255,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_LEFT_POINTING_LEFT_TOP_END]
-[NAME:bookcase vertical left pointing left top end:bookcase vertical left pointing left top ends]
+[NAME:bookcase V L->L top end:bookcase V L->L top ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -267,7 +267,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_RIGHT_POINTING_RIGHT_BOTTOM_END]
-[NAME:bookcase vertical right pointing right bottom end:bookcase vertical right pointing right bottom ends]
+[NAME:bookcase V R->R bottom end:bookcase V R->R bottom ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -279,7 +279,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_LEFT_POINTING_LEFT_BOTTOM_END]
-[NAME:bookcase vertical left pointing left bottom end:bookcase vertical left pointing left bottom ends]
+[NAME:bookcase V L->L bottom end:bookcase V L->L bottom ends]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -291,7 +291,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_LEFT_POINTING_LEFT_INBETWEEN]
-[NAME:bookcase vertical left pointing left inbetween:bookcase vertical left pointing left inbetween]
+[NAME:bookcase V L->L inbetween:bookcase V L->L inbetween]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -303,7 +303,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_VERTICAL_RIGHT_POINTING_RIGHT_INBETWEEN]
-[NAME:bookcase vertical right pointing right inbetween:bookcase vertical right pointing right inbetween]
+[NAME:bookcase V R->R inbetween:bookcase V R->R inbetween]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -315,7 +315,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_RIGHT_TO_UP_SHARP]
-[NAME:bookcase corner front right to up sharp:bookcase corner front right to up sharp]
+[NAME:bookcase C F R-to-U (S):bookcase C F R-to-U (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -327,7 +327,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_LEFT_TO_UP_SHARP]
-[NAME:bookcase corner front left to up sharp:bookcase corner front left to up sharp]
+[NAME:bookcase C F L-to-U (S):bookcase C F L-to-U (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -339,7 +339,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_LEFT_TO_UP_SHARP]
-[NAME:bookcase corner back left to up sharp:bookcase corner back left to up sharp]
+[NAME:bookcase C B L-to-U (S):bookcase C B L-to-U (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -351,7 +351,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_RIGHT_TO_UP_SHARP]
-[NAME:bookcase corner back right to up sharp:bookcase corner back right to up sharp]
+[NAME:bookcase C B R-to-U (S):bookcase C B R-to-U (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -363,7 +363,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_RIGHT_TO_DOWN_SHARP]
-[NAME:bookcase corner front right to down sharp:bookcase corner front right to down sharp]
+[NAME:bookcase C F R-to-D (S):bookcase C F R-to-D (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -375,7 +375,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_FRONT_LEFT_TO_DOWN_SHARP]
-[NAME:bookcase corner front left to down sharp:bookcase corner front left to down sharp]
+[NAME:bookcase C F L-to-D (S):bookcase C F L-to-D (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -387,7 +387,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_RIGHT_TO_DOWN_SHARP]
-[NAME:bookcase corner front right to down sharp:bookcase corner front right to down sharp]
+[NAME:bookcase C F R-to-D (S):bookcase C F R-to-D (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -399,7 +399,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_LEFT_TO_DOWN_SHARP]
-[NAME:bookcase corner back left to down sharp:bookcase corner back left to down sharp]
+[NAME:bookcase C B L-to-D (S):bookcase C B L-to-D (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
