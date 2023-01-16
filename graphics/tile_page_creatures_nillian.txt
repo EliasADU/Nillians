@@ -22,6 +22,11 @@ tile_page_creatures_nillian
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:576:736]
 
+[TILE_PAGE:NILLIAN_CLOTHING_EXTRA]
+	[FILE:images/nillian_clothes_extra.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
 [TILE_PAGE:NILLIAN_ARMOR]
 	[FILE:images/nillian_armor.png]
 	[TILE_DIM:32:32]
