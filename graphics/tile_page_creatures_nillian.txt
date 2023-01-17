@@ -10,12 +10,7 @@ tile_page_creatures_nillian
 [TILE_PAGE:NILLIAN_HAIR_STRAIGHT]
 	[FILE:images/nillian_hair.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:256:1056]
-
-[TILE_PAGE:NILLIAN_HAIR_CURLY]
-	[FILE:images/nillian_hair_curly.png]
-	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:256:608]
+	[PAGE_DIM_PIXELS:192:448]
 
 [TILE_PAGE:NILLIAN_CLOTHING]
 	[FILE:images/nillian_clothes.png]
