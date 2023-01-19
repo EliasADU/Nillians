@@ -40,7 +40,7 @@ tile_page_creatures_nillian
 [TILE_PAGE:NILLIAN_HAIR_CORPSE]
 	[FILE:images/nillian_hair_corpse.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:192:512]
+	[PAGE_DIM_PIXELS:192:448]
 	
 [TILE_PAGE:NILLIAN_STATUE]
 	[FILE:images/nillian_statue.png]
