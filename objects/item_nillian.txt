@@ -407,7 +407,7 @@ item_nillian
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE_CORNER_BACK_RIGHT_TO_DOWN_SHARP]
-[NAME:bookcase C F R-to-D (S):bookcase C F R-to-D (S)s]
+[NAME:bookcase C B R-to-D (S):bookcase C B R-to-D (S)s]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
