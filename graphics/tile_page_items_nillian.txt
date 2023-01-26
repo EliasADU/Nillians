@@ -1,0 +1,18 @@
+tile_page_items_nillian
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:WOOD_BOOKCASE]
+	[FILE:images/modular_wood_bookcase.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:352]
+	
+[TILE_PAGE:STONE_BOOKCASE]
+	[FILE:images/modular_stone_bookcase.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:352]
+	
+[TILE_PAGE:METAL_BOOKCASE]
+	[FILE:images/modular_metal_bookcase.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:352]

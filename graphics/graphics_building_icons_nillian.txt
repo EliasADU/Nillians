@@ -1,0 +1,3 @@
+graphics_creatures_building_icons_nillian
+
+[OBJECT:GRAPHICS]
