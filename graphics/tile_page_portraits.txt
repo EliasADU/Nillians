@@ -12,11 +12,6 @@ tile_page_creatures
 	[TILE_DIM:96:96]
 	[PAGE_DIM_PIXELS:576:1536]
 
-[TILE_PAGE:PORTRAIT_NILLIAN_CLOTHING_UNDER]
-	[FILE:images/portraits/nillian_portrait_clothing_under.png]
-	[TILE_DIM:96:96]
-	[PAGE_DIM_PIXELS:96:96]
-
 [TILE_PAGE:PORTRAIT_NILLIAN_CLOTHING_CAP]
 	[FILE:images/portraits/nillian_portrait_clothing_cap.png]
 	[TILE_DIM:96:96]
